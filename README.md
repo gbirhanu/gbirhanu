@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end Web Technologies 
 - 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on Open source project
-- 📫 How to reach me is easy, just email me @g4rfsh@gmail.com
+- 📫 How to reach me is easy, just email me @gemechu.birhanu19@gmail.com
 
 <!---
 gbirhanu/gbirhanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
